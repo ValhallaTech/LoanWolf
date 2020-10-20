@@ -4366,6 +4366,14 @@
     <Content Include="FontAwesome\svgs\regular\barcode-scan.svg" />
     <Content Include="FontAwesome\svgs\regular\barcode.svg" />
     <Content Include="FontAwesome\svgs\regular\bars.svg" />
+    <Content Include="images\LoanWolf2\grunticon.loader.js" />
+    <Content Include="images\LoanWolf2\icons.data.png.css" />
+    <Content Include="images\LoanWolf2\icons.data.svg.css" />
+    <Content Include="images\LoanWolf2\icons.fallback.css" />
+    <Content Include="images\LoanWolf2\png\WolfLogo.png" />
+    <Content Include="images\LoanWolf2\preview.html" />
+    <Content Include="images\WolfLogo.svg" />
+    <Content Include="images\WolfLogo2.svg" />
     <Content Include="scripts\bootstrap-slider.min.js" />
     <Content Include="scripts\bootstrap_slider.js" />
     <Content Include="FontAwesome\fa_js\all.js" />
@@ -4484,6 +4492,8 @@
     <Content Include="FontAwesome\webfonts\fa-solid-900.woff2" />
     <None Include="bundleconfig.json" />
     <Content Include="images\WolfLogo.svgz" />
+    <Content Include="images\WolfLogo.psd" />
+    <Content Include="images\WolfLogo2.ai" />
     <None Include="scripts\jquery-3.5.1.intellisense.js" />
     <Content Include="scripts\jquery-3.5.1.js" />
     <Content Include="scripts\jquery-3.5.1.min.js" />
